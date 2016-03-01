@@ -1,0 +1,23 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UE4BPLearningPlugins",
+	"Description": "A plugin for testing adn learning the pipeline for creating and implementing a BP-related plugin in UE4",
+	"Category": "LearningTab",
+	"CreatedBy": "Get Set Games Inc.",
+	"CreatedByURL": "http://getsetgames.com",
+	"DocsURL": "https://github.com/NateDias/UE4BPLearningPlugins",
+	"MarketplaceURL": "",
+	"Modules": [
+		{
+			"Name": "UE4BPLearningPlugins",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false
+}
